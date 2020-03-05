@@ -1,0 +1,120 @@
+update crit set  c_id= 1, contet= 10 where c_id=1
+update crit set  c_id= 1, contet= 10 where c_id=1
+update crit set  c_id= 1, contet= 10 where c_id=1
+update crit set  c_id= 1, contet= 10 where c_id=1
+update crit set  c_id= 1, contet= 10 where c_id=1
+select c_id,id,w_id,contet from crit where id=1
+select c_id,id,w_id,contet from crit where id=1 limit 0,5
+update crit set  c_id= 1, contet= 10 where c_id=1
+update crit set  c_id= 1, contet= 10 where c_id=1
+update crit set  c_id= 1, contet= 10 where c_id=1
+update crit set  c_id= 1, contet= 10 where c_id=1
+update crit set  c_id= 1, contet= 10 where c_id=1
+update crit set  c_id= 1, contet= 10 where c_id=1
+update crit set  c_id= 1, contet= 10 where c_id=1
+update crit set  c_id= 1, contet= 10 where c_id=1
+update crit set  c_id= 1, contet= 10 where c_id=1
+update crit set  c_id= 1, contet= 10 where c_id=1
+select c_id,id,w_id,contet from crit where id=1
+select c_id,id,w_id,contet from crit where id=1 limit 0,5
+update crit set  c_id= 1, contet= 10 where c_id=1
+update crit set  c_id= 1, contet= 10 where c_id=1
+update crit set  c_id= 1, contet= 10 where c_id=1
+update crit set  c_id= 1, contet= 10 where c_id=1
+update crit set  c_id= 1, contet= 10 where c_id=1
+update crit set  c_id= 1, contet= 10 where c_id=1
+update crit set  c_id= 1, contet= 10 where c_id=1
+update crit set  c_id= 1, contet= 10 where c_id=1
+update crit set  c_id= 1, contet= 10 where c_id=1
+update crit set  c_id= 1, contet= 10 where c_id=1
+select c_id,id,w_id,contet from crit where id=1
+select c_id,id,w_id,contet from crit limit 0,2
+select c_id,id,w_id,contet from crit where id=1
+select c_id,id,w_id,contet from crit where id=1
+select c_id,id,w_id,contet from crit where id=1
+select c_id,id,w_id,contet from crit where id=1
+insert into crit(c_id,id,w_id,contet) values(None, None, None, '232')
+select c_id,id,w_id,contet from crit where id=1
+insert into crit(c_id,id,w_id,contet) values(None, None, None, '232')
+select c_id,id,w_id,contet from crit where id=1
+insert into crit(c_id,id,w_id,contet) values(None, None, None, '232')
+select c_id,id,w_id,contet from crit where id=1
+insert into crit(c_id,id,w_id,contet) values(None, None, None, '232')
+select c_id,id,w_id,contet from crit where id=1
+insert into crit(c_id,id,w_id,contet) values(None, None, None, '232')
+select c_id,id,w_id,contet from crit where id=1
+insert into crit(c_id,id,w_id,contet) values(None, None, None, '232')
+select c_id,id,w_id,contet from crit where id=1
+insert into crit(c_id,id,w_id,contet) values(None, None, None, '232')
+select c_id,id,w_id,contet from crit where id=1
+insert into crit(c_id,id,w_id,contet) values(null, null, null, '232')
+select c_id,id,w_id,contet from crit where id=1
+insert into crit(c_id,id,w_id,contet) values(null, null, null, '232')
+select * from  crit where c_id= 1  and id= 1 
+select c_id,id,w_id,contet from crit where id=1
+insert into crit(c_id,id,w_id,contet) values(null, null, null, '232')
+select * from  crit where c_id= 1  and id= 1 
+select c_id,id,w_id,contet from crit where contet=''%s''
+select c_id,id,w_id,contet from crit where id=1
+insert into crit(c_id,id,w_id,contet) values(null, null, null, '232')
+select * from  crit where c_id= 1  and id= 1 
+select c_id,id,w_id,contet from crit where contet='%s'
+select c_id,id,w_id,contet from crit where id=1
+insert into crit(c_id,id,w_id,contet) values(null, null, null, '232')
+select * from  crit where c_id= 1  and id= 1 
+select c_id,id,w_id,contet from crit where contet='%s%'
+select c_id,id,w_id,contet from crit where id=1
+insert into crit(c_id,id,w_id,contet) values(null, null, null, '232')
+select * from  crit where c_id= 1  and id= 1 
+select c_id,id,w_id,contet from crit where contet like  '%s%'
+select c_id,id,w_id,contet from crit where id=1
+insert into crit(c_id,id,w_id,contet) values(null, null, null, '232')
+select * from  crit where c_id= 1  and id= 1 
+select c_id,id,w_id,contet from crit where contet like  '%s%'
+select c_id,id,w_id,contet from crit where contet like  '%s%' limit 0,4
+select c_id,id,w_id,contet from crit where id=1
+insert into crit(c_id,id,w_id,contet) values(null, null, null, '232')
+select * from  crit where c_id= 1  and id= 1 
+select c_id,id,w_id,contet from crit where contet like  '%s%'
+select c_id,id,w_id,contet from crit where contet like  '%s%' limit 0,4
+select c_id,id,w_id,contet from crit where id=1
+insert into crit(c_id,id,w_id,contet) values(null, null, null, '232')
+select * from  crit where c_id= 1  and id= 1 
+select c_id,id,w_id,contet from crit where contet like  '%s%'
+select c_id,id,w_id,contet from crit where contet like  '%s%' limit 0,4
+select c_id,id,w_id,contet from crit where id=1
+insert into crit(c_id,id,w_id,contet) values(null, null, null, '232')
+select * from  crit where c_id= 1  and id= 1 
+select c_id,id,w_id,contet from crit where contet like  '%s%'
+select c_id,id,w_id,contet from crit where contet like  '%s%' limit 0,4
+select c_id,id,w_id,contet from crit where id=1
+insert into crit(c_id,id,w_id,contet) values(null, null, null, '232')
+select * from  crit where c_id= 1  and id= 1 
+select c_id,id,w_id,contet from crit where contet like  '%s%'
+select c_id,id,w_id,contet from crit where contet like  '%s%' limit 0,4
+select c_id,id,w_id,contet from crit where id=1
+insert into crit(c_id,id,w_id,contet) values(null, null, null, '232')
+select * from  crit where c_id= 1  and id= 1 
+select c_id,id,w_id,contet from crit where contet like  '%s%'
+select c_id,id,w_id,contet from crit where contet like  '%s%' limit 0,4
+update crit set  c_id= 1, contet= 'ds' where c_id=1
+select c_id,id,w_id,contet from crit where id=1
+insert into crit(c_id,id,w_id,contet) values(null, null, null, '232')
+select * from  crit where c_id= 1  and id= 1 
+select c_id,id,w_id,contet from crit where contet like  '%s%'
+select c_id,id,w_id,contet from crit where contet like  '%s%' limit 0,4
+update crit set  c_id= 1, contet= 'ds' where c_id=1
+select c_id,id,w_id,contet from crit where id=1
+insert into crit(c_id,id,w_id,contet) values(null, null, null, '232')
+select * from  crit where c_id= 1  and id= 1 
+select c_id,id,w_id,contet from crit where contet like  '%s%'
+select c_id,id,w_id,contet from crit where contet like  '%s%' limit 0,4
+update crit set  c_id= 1, contet= 'ds' where c_id=1
+select * from crit where id=1
+select c_id,id,w_id,contet from crit where id=1
+insert into crit(c_id,id,w_id,contet) values(null, null, null, '232')
+select * from  crit where c_id= 1  and id= 1 
+select c_id,id,w_id,contet from crit where contet like  '%s%'
+select c_id,id,w_id,contet from crit where contet like  '%s%' limit 0,4
+update crit set  c_id= 1, contet= 'ds' where c_id=1
+select * from crit where id=1
